@@ -1,13 +1,10 @@
 ---
 layout: post
-#标题配置
 title:  测试
-#时间配置
-date:   2019-10-31 01:08:00 +0800
-#大类配置
+date:   2019-10-31 00:00:00 +0800
 categories: document
-#小类配置
-tag: 测试
+tag: 教程
+
 ---
 
 * content
@@ -16,8 +13,6 @@ tag: 测试
 
 
 
+# 测试	{#测试}
 
-
-{# Test}
-
-- 我就试试
+- Test
